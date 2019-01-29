@@ -16,5 +16,5 @@ Design and analysis of algorithms and data structures is a core part of Computer
 [4. Homework 4](https://github.com/dzisandy/Efficient-Algorithms-and-Data-Structures/tree/master/HW4)
 
 ## Instructor
-* **Gregory Kucherov** - *Leading Research Scientist* - [Link](hhttps://faculty.skoltech.ru/people/grigorykucherov)
+* **Gregory Kucherov** - *Leading Research Scientist* - [Link](https://faculty.skoltech.ru/people/grigorykucherov)
 
